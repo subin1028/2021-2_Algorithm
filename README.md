@@ -3,7 +3,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lsbapple)](https://velog.io/@lsbapple)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lsbapple &tag=알고리즘)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?tag=알고리즘&name=lsbapple)](https://github.com/eungyeole/velog-readme-stats)
 
 <detail>
   <summary>
